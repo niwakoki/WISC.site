@@ -1,5 +1,1 @@
-$ dig wisc.com +nostats +nocomments +nocmd
-  > ;wisc.com.                     IN      A
-  > wisc.com.              3592    IN      CNAME   niwakoki.github.io.
-  > niwakoki.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+wisc.wisc
