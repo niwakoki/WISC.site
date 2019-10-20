@@ -1,1 +1,3 @@
-wisc.com
+$ dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+  > ;wisc.com.                     IN      A
+  > wisc.com.              3592    IN      CNAME   niwakoki.github.io.
